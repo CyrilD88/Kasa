@@ -1,0 +1,13 @@
+.title-apart {
+    display: flex;
+    font-size: 24px;
+    color: #ff6060;
+    margin-top: 0px;
+  }
+  
+  .location {
+    color: #ff6060;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: -10px;
+  }
